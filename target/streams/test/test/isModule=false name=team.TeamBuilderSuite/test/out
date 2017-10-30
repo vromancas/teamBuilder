@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mTeamBuilderSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- case "0010","1000","1100","1000"  *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  "0[1]" did not equal "0[3]" (TeamBuilderSuite.scala:14)[0m[0m
